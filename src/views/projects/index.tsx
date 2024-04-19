@@ -1,15 +1,15 @@
 import { FC } from "react";
 
-const Navbar: FC = () => {
+const Projects: FC = () => {
   return (
     <div
       className="
         h-[500px]
       "
     >
-      Navbar
+      <div>projects</div>
     </div>
   );
 };
 
-export default Navbar;
+export default Projects;
